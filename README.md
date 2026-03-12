@@ -17,13 +17,13 @@
   <img src="about.png" width=45% height=45%>
 
  </p>
- -home
+ - home
  ![alt text](home.png)
 
- -about
+ - about
  ![alt text](about.png)
 
- -logo
+ - logo
  ![alt text](logo.png)
 
 
