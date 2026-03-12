@@ -17,6 +17,7 @@
   <img src="about.png" width=45% height=45%>
 
  </p>
+ 
  - home
  ![alt text](home.png)
 
